@@ -50,6 +50,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 # Run
 npm init
+npm i
 
  server and client file 
  1. run: npm i
